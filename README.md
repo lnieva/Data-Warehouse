@@ -71,8 +71,6 @@ password: meolvide
 mail: juancacal@gmail.com
 password: meolvide
 
-Una vez registrado y logueado el usuario, se recibirá un token, este se incluye en el header - authorization type Bearer Token.
-
 ## Contacto
 Leonardo Nieva - lnieva@agea.com.ar
 
