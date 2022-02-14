@@ -188,7 +188,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id_user`, `fname`, `lname`, `email`, `pass`, `admin`, `active`) VALUES
 (1, 'Leonardo', 'Nieva', 'lnieva@acamica.com', 'meolvide', 1, 1),
-(2, 'Juan Carlos', 'Cal', 'Juancacal@gmail.com', 'meolvide', 0, 1);
+(2, 'Juan Carlos', 'Cal', 'juancacal@gmail.com', 'meolvide', 0, 1);
 
 --
 -- Índices para tablas volcadas
