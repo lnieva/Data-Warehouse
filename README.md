@@ -55,7 +55,7 @@ Las siguientes dependencias son necesarias para ejecutar el proyecto
    
 5. Iniciamos la API
    ```sh
-   node front/app.js
+   node .\back\api.js
    ```
 ## Funcionamiento
 
