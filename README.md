@@ -63,12 +63,12 @@ Ingresar usuario y contraseña validos
 
 - Administrador:
 
-mail: lnieva@acamica.com
+mail: lnieva@acamica.com<br>
 password: meolvide
 
 - Single User:
 
-mail: juancacal@gmail.com
+mail: juancacal@gmail.com<br>
 password: meolvide
 
 ## Contacto
