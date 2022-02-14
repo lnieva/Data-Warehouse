@@ -1,3 +1,7 @@
+if (localStorage.getItem('tokenLogin') == null) {
+  window.location.href = '/front/index.html';
+};
+
 const token = JSON.parse(localStorage.getItem("tokenLogin"));
 var myHeaders = new Headers();
 myHeaders.append("Content-Type", "application/json");
