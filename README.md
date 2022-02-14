@@ -51,7 +51,7 @@ Las siguientes dependencias son necesarias para ejecutar el proyecto
    ```sh
    npm run dependencias
    ```
-4. Ejecutamos el script `create.sql` en MYSQL
+4. Ejecutamos el script `.\back\create.sql` en MYSQL
    
 5. Iniciamos la API
    ```sh
